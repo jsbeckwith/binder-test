@@ -1,4 +1,4 @@
 arcgis
-notebook
+notebook <= 5.7.8
 ipywidgets
 widgetsnbextension
