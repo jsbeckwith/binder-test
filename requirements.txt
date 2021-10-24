@@ -1,4 +1,4 @@
 notebook==5.7.8
-arcgis==1.6.0
+arcgis==1.5.0
 ipywidgets >=5.2.2,<7
 widgetsnbextension >=1.2.6,<3
